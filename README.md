@@ -10,6 +10,6 @@ Projeto desenvolvido no curso de __Desenvolvimento web completo__, abordando os 
 
 ## Meta
 
-Paulo Marques - [@prmarquesz](https://twitter.com/prmarquesz) - paulormarques.dev@gmail.com
+Paulo Marques - [@prmarquesz](https://twitter.com/prmarquesz) - paulormarques21@gmail.com
 
 Udemy - [Curso de Desenvolvimento Web completo](https://www.udemy.com/course/web-completo/)
